@@ -53,25 +53,27 @@ The goal of this project is to **analyze, clean, visualize, and interpret educat
 
 ## Folder Structure
 
+<pre>
 education-sector-eda/
-│── README.md
+├── README.md
 │
 ├── code/
-│ ├── eda_analysis.ipynb
-│ └── data_cleaning.py
+│   ├── eda_analysis.ipynb
+│   └── data_cleaning.py
 │
 ├── outputs/
-│ └── data_cleaning_visualization.html
+│   └── data_cleaning_visualization.html
 │
 ├── dashboards/
-│ └── power_bi_dashboard.pdf
+│   └── power_bi_dashboard.pdf
 │
 ├── reports/
-│ ├── eda_feature_extraction.pdf
-│ └── sprint_execution_report.pdf
+│   ├── eda_feature_extraction.pdf
+│   └── sprint_execution_report.pdf
 │
 └── presentation/
-└── education_eda_presentation.pptx
+    └── education_eda_presentation.pptx
+</pre>
 
 
 ---
